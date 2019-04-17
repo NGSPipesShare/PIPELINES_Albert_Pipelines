@@ -1,0 +1,12 @@
+Properties : {
+	author : ""
+	description : ""
+	version : ""
+	documentation : []
+}
+
+Repositories : [ ]
+
+Outputs : { }
+
+Steps : [ ]
